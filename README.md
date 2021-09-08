@@ -1,4 +1,3 @@
-# brand-assets
-Litedex Protocol Brand Assets
+# Litedex Protocol Brand Assets
 
 Read more : https://litedex.io/brand-assets
